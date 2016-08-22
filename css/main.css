@@ -1,0 +1,42 @@
+.caja1 {
+	background-color: grey; 
+	border:black solid 1px;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+
+}
+.contenedor {
+	background-color: grey;
+    width:350px;
+   height: 150px;
+   margin-top: 10px;
+   display: block;
+}
+.contenedor .caja{
+	border:black solid 2px;
+	width:100px;
+	height: 100px;
+	display: inline-block;
+	margin-top:20px;
+	margin-left: 6px;
+}
+.contenedor2 .caja{
+    background-color: grey; 
+	border:black solid 1px;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin-top:20px;
+
+}
+.caja7{
+	background-color: grey; 
+	border:black solid 1px;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin-top:20px;
+
+}
+
